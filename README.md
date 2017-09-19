@@ -29,3 +29,4 @@ of the time and set a correct format for displaying
 5.How to put pictures into drawable and put it to the view
 6.How to deal with different widgets 
 7.Most importantly, I know how to find resources and help online, especially the "Android Developer"
+ 
